@@ -14,7 +14,7 @@ function greet(t){
   else {
     if(parseInt(time[0],10)>5)return "Good Evening";
     else return "Good Afternoon";
-  } 
+  }
 }
 /* Write your implementation of displayMessage() */
 function displayMessage(In){
