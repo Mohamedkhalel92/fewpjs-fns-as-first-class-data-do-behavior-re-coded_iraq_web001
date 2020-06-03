@@ -15,7 +15,7 @@ function greet(t){
        else return "Good Afternoon";
 }
 /* Write your implementation of displayMessage() */
-function displayMessage(In){
+function displayMessage(let In){
   var element = document.getElementById("text");
   element.innerHTML = In;
 }
