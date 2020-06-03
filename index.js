@@ -16,6 +16,6 @@ function greet(t){
 }
 /* Write your implementation of displayMessage() */
 function displayMessage(let In){
-  var element = document.getElementById("text");
+  var element = document.getElementById("greeting");
   element.innerHTML = In;
 }
