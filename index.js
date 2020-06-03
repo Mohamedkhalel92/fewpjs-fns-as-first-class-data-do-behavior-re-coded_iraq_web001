@@ -13,9 +13,9 @@ function greet(t){
   if(time[0].parseInt()<12)return "Good Morning";
   if(time[0].parseInt()>12 && time[0].parseInt()<5 )return "Good Afternoon";
   if(time[0].parseInt()>5)return "Good Evening";
-  
+
 }
 /* Write your implementation of displayMessage() */
 function displayMessage(){
-  
+
 }
